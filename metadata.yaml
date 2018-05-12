@@ -26,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/168
     wikipedia: http://en.wikipedia.org/wiki/Horatio_Alger,_Jr.
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45022#Bernard-Brooks-Adventures--The-Experience-of-a-Plucky-Boy
 gutenberg_issued: '2014-02-26'
 gutenberg_type: Text
 identifiers:
