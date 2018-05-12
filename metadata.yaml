@@ -1,0 +1,48 @@
+_repo: Bernard-Brooks-Adventures--The-Experience-of-a-Plucky-Boy_45022
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Davis, J. Watson
+    alias: Davis, John Watson
+    birthdate: 1870
+    deathdate: 1959
+    gutenberg_agent_id: '32768'
+    url: http://www.gutenberg.org/2009/agents/32768
+covers:
+- cover_type: archival
+  image_path: 45022-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Alger, Horatio, Jr.
+    aliases:
+    - Preston, Charles F.
+    - Jr., Horatio Alger
+    - Starr, Julian
+    - Alger, Horatio
+    - Putnam, Arthur Lee
+    birthdate: 1832
+    deathdate: 1899
+    gutenberg_agent_id: '168'
+    url: http://www.gutenberg.org/2009/agents/168
+    wikipedia: http://en.wikipedia.org/wiki/Horatio_Alger,_Jr.
+description: ''
+gutenberg_issued: '2014-02-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45022'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Youth -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Bildungsromans'
+- !lcc 'PZ'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Inheritance and succession -- Juvenile fiction'
+- !lcsh 'Orphans -- Juvenile fiction'
+- !lcsh 'Guardian and ward -- Juvenile fiction'
+- !lcsh 'Success -- Juvenile fiction'
+- !lcsh 'Runaway children -- Juvenile fiction'
+title: 'Bernard Brooks'' Adventures: The Experience of a Plucky Boy'
+url: http://www.gutenberg.org/ebooks/45022
